@@ -1,0 +1,56 @@
+/* Dibawah ini daftar link API */
+
+@import url('https://fonts.googleapis.com/css2?family=M+PLUS+Rounded+1c&display=swap');
+
+/* Selector */
+
+body {
+  font-family: 'M PLUS Rounded 1c', Sans-Serif;
+  background-color: skyblue;
+  font-size: 13px;
+  text-align: center;
+}
+
+figure {
+  float: right;
+}
+
+header {
+  top: 0;
+  right: 0;
+  left: 0;
+  margin: 0;
+  position: fixed;
+  background-color: #0a74de;
+  box-shadow: 1px 1px 1px 1px #777799;
+  z-index: 1;
+}
+
+hr {
+  border: black solid 1px;
+}
+
+section {
+  background-color: #00cc99;
+  border: black solid 1.5px;
+  border-radius: 19px 7px;
+  padding: 10px;
+  margin: 5px;
+  position: relative;
+  top: 75px;
+}
+
+footer {
+  position: relative;
+  top: 60px;
+  width: 100%;
+  padding-top: 10px;
+  padding-bottom: 16px;
+}
+
+#alpha-1 {
+  position: relative;
+  list-style: none;
+  right: 15px;
+  line-height: 10px;
+}
